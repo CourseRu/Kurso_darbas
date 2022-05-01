@@ -27,4 +27,5 @@ Programa buvo supakuota į .exe failą su pyinstaller.</p>
 <hr>
 
 <h3>Programos nuotrauka:</h3>
+<img src="https://github.com/CourseRu/Kurso_darbas/blob/main/programos_nuotrauka.png?raw=true">
 
